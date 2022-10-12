@@ -18,6 +18,15 @@ This repository contains a sample project in Kotlin,MVVM, Coroutines, Hilt and R
 
 * ui: View classes along with their corresponding ViewModel.
 
+# Run tests:
+
+### (test) packages
+
+* class OpenLibraryServiceTest in (data.remotr package) contains testing the retrofit service.
+* class MainViewModelIntegrationTest in (ui package) contains testing viewmodel if there's articles.
+* class MainViewModelTest in (ui package) contains testing error, empty and success cases.
+
+
 # Library reference resources:
 
 * Hilt: https://developer.android.com/training/dependency-injection/hilt-android
