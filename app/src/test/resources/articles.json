@@ -1,0 +1,134 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+  "num_results": 2,
+  "results": [
+    {
+      "uri": "nyt://article/6b915b80-14bb-5063-b0ec-2505eb55fc0d",
+      "url": "https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html",
+      "id": 100000008485792,
+      "asset_id": 100000008485792,
+      "source": "New York Times",
+      "published_date": "2022-09-14",
+      "updated": "2022-09-21 18:05:13",
+      "section": "Climate",
+      "subsection": "",
+      "nytdsection": "climate",
+      "adx_keywords": "Global Warming;Philanthropy;Corporate Social Responsibility;High Net Worth Individuals;Capitalism (Theory and Philosophy);Content Type: Personal Profile;Fashion and Apparel;Mergers, Acquisitions and Divestitures;Chouinard, Yvon;Patagonia Inc",
+      "column": null,
+      "byline": "By David Gelles",
+      "type": "Article",
+      "title": "Billionaire No More: Patagonia Founder Gives Away the Company",
+      "abstract": "Yvon Chouinard has forfeited ownership of the company he founded 49 years ago. The profits will now be used to fight climate change.",
+      "des_facet": [
+        "Global Warming",
+        "Philanthropy",
+        "Corporate Social Responsibility",
+        "High Net Worth Individuals",
+        "Capitalism (Theory and Philosophy)",
+        "Content Type: Personal Profile",
+        "Fashion and Apparel",
+        "Mergers, Acquisitions and Divestitures"
+      ],
+      "org_facet": [
+        "Patagonia Inc"
+      ],
+      "per_facet": [
+        "Chouinard, Yvon"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Natalie Behring for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/09/12/climate/00cli-patagonia-promo/00cli-patagonia-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/09/12/climate/00cli-patagonia-promo/00cli-patagonia-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/09/12/climate/00cli-patagonia-promo/00cli-patagonia-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/229225e8-e303-5a75-979a-c40da4de0756",
+      "url": "https://www.nytimes.com/2022/09/30/us/fort-myers-beach-hurricane-ian.html",
+      "id": 100000008560883,
+      "asset_id": 100000008560883,
+      "source": "New York Times",
+      "published_date": "2022-09-30",
+      "updated": "2022-10-02 12:41:39",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Hurricane Ian (2022);Rescues;Floods;Deaths (Fatalities);Coastal Areas;Fort Myers (Fla);Sanibel Island (Fla);Pine Island (Fla)",
+      "column": null,
+      "byline": "By Jennifer Reed, Patricia Mazzei and Jack Healy",
+      "type": "Article",
+      "title": "On Florida’s Islands, Scenes of Paradise Lost, Maybe for Good",
+      "abstract": "On Fort Myers Beach, Sanibel Island and Pine Island, cherished landmarks and an easygoing existence were obliterated by Hurricane Ian.",
+      "des_facet": [
+        "Hurricane Ian (2022)",
+        "Rescues",
+        "Floods",
+        "Deaths (Fatalities)",
+        "Coastal Areas"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Fort Myers (Fla)",
+        "Sanibel Island (Fla)",
+        "Pine Island (Fla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescue workers in Fort Myers Beach on Thursday.",
+          "copyright": "Hilary Swift for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/09/30/us/30FORT-MYERS-1-sub/30FORT-MYERS-1-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/09/30/us/30FORT-MYERS-1-sub/30FORT-MYERS-1-sub-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/09/30/us/30FORT-MYERS-1-sub/30FORT-MYERS-1-sub-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
